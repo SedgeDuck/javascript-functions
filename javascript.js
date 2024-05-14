@@ -1,4 +1,4 @@
-let x = prompt("Enter a number: ");
+/*let x = prompt("Enter a number: ");
 
 if (isNaN(x)) {
   alert("Error: x must be a number"); //check x input type
